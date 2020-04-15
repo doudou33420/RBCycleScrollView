@@ -1,0 +1,6 @@
+use_frameworks!
+target 'RBCycleScrollView_Tests' do
+  pod 'RBCycleScrollView', :path => '../'
+  
+  
+end
