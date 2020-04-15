@@ -16,7 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		0C9469B7E61049F2CBBFA7B6 /* RBCycleScrollView.podspec */ = {isa = PBXFileReference; includeInIndex = 1; name = RBCycleScrollView.podspec; path = ../RBCycleScrollView.podspec; sourceTree = "<group>"; };
+		0C9469B7E61049F2CBBFA7B6 /* RBCycleScrollView.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = RBCycleScrollView.podspec; path = ../RBCycleScrollView.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		6003F58D195388D20070C39A /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		6003F58F195388D20070C39A /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
 		6003F591195388D20070C39A /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
@@ -28,8 +28,8 @@
 		606FC2411953D9B200FFA9A0 /* Tests-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Tests-Prefix.pch"; sourceTree = "<group>"; };
 		87AD2B74C08A9FA07BF53D42 /* Pods-RBCycleScrollView_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-RBCycleScrollView_Tests.debug.xcconfig"; path = "Target Support Files/Pods-RBCycleScrollView_Tests/Pods-RBCycleScrollView_Tests.debug.xcconfig"; sourceTree = "<group>"; };
 		BAB510D069169647D05566EC /* Pods_RBCycleScrollView_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_RBCycleScrollView_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		BCBEFC3146A3A4BE673C7F94 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
-		C2E72B297A12752AF6BEB28B /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; name = README.md; path = ../README.md; sourceTree = "<group>"; };
+		BCBEFC3146A3A4BE673C7F94 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
+		C2E72B297A12752AF6BEB28B /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
 		F4F0606543EDE744096FE53A /* Pods-RBCycleScrollView_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-RBCycleScrollView_Tests.release.xcconfig"; path = "Target Support Files/Pods-RBCycleScrollView_Tests/Pods-RBCycleScrollView_Tests.release.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -54,7 +54,6 @@
 				87AD2B74C08A9FA07BF53D42 /* Pods-RBCycleScrollView_Tests.debug.xcconfig */,
 				F4F0606543EDE744096FE53A /* Pods-RBCycleScrollView_Tests.release.xcconfig */,
 			);
-			name = Pods;
 			path = Pods;
 			sourceTree = "<group>";
 		};
@@ -160,6 +159,7 @@
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
+				English,
 				en,
 				Base,
 			);

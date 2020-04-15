@@ -1,0 +1,16 @@
+PODS:
+  - RBCycleScrollView (0.1.0)
+
+DEPENDENCIES:
+  - RBCycleScrollView (from `../`)
+
+EXTERNAL SOURCES:
+  RBCycleScrollView:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  RBCycleScrollView: f9531a614d3c60596c0019697a0fa19ca9e2bde1
+
+PODFILE CHECKSUM: d5f75a4f1549d2d082b5a445f9cf7a849a318e48
+
+COCOAPODS: 1.7.0.beta.2

@@ -1,0 +1,22 @@
+{
+  "name": "RBCycleScrollView",
+  "version": "0.1.0",
+  "summary": "A short description of RBCycleScrollView.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/lufeng/RBCycleScrollView",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "lufeng": "lufeng@aidun.com"
+  },
+  "source": {
+    "git": "https://github.com/lufeng/RBCycleScrollView.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "RBCycleScrollView/Classes/**/*"
+}

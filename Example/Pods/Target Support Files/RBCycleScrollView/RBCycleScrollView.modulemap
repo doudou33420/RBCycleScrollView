@@ -1,0 +1,6 @@
+framework module RBCycleScrollView {
+  umbrella header "RBCycleScrollView-umbrella.h"
+
+  export *
+  module * { export * }
+}

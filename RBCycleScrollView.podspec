@@ -9,7 +9,7 @@
 Pod::Spec.new do |s|
   s.name             = 'RBCycleScrollView'
   s.version          = '0.1.0'
-  s.summary          = 'A short description of RBCycleScrollView.'
+  s.summary          = 'CycleScrollView.'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
@@ -24,8 +24,8 @@ TODO: Add long description of the pod here.
   s.homepage         = 'https://github.com/lufeng/RBCycleScrollView'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  s.author           = { 'lufeng' => 'lufeng@aidun.com' }
-  s.source           = { :git => 'https://github.com/lufeng/RBCycleScrollView.git', :tag => s.version.to_s }
+  s.author           = { 'doudou33420' => 'doudou33420@126.com' }
+  s.source           = { :git => 'https://github.com/doudou33420/RBCycleScrollView.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '8.0'
