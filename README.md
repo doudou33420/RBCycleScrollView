@@ -1,9 +1,6 @@
 # RBCycleScrollView
 
-[![CI Status](https://img.shields.io/travis/lufeng/RBCycleScrollView.svg?style=flat)](https://travis-ci.org/lufeng/RBCycleScrollView)
-[![Version](https://img.shields.io/cocoapods/v/RBCycleScrollView.svg?style=flat)](https://cocoapods.org/pods/RBCycleScrollView)
-[![License](https://img.shields.io/cocoapods/l/RBCycleScrollView.svg?style=flat)](https://cocoapods.org/pods/RBCycleScrollView)
-[![Platform](https://img.shields.io/cocoapods/p/RBCycleScrollView.svg?style=flat)](https://cocoapods.org/pods/RBCycleScrollView)
+
 
 ## Example
 
