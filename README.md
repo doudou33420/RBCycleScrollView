@@ -1,6 +1,6 @@
 # RBCycleScrollView
 
-
+通过scrollview内部3个view复用实现类collectionview展示功能 代理方法同collectionView
 
 ## Example
 
